@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.spec
+
+# Secrets and private data
+.env
+backend/.env
+backend/data/*.db
+*.fridaykey
+*.log
+*.jsonl
+logs/
+notes/private/
+screenshots/private/
+
+# OS
+.DS_Store
+Thumbs.db

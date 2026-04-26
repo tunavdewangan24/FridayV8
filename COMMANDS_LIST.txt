@@ -1,0 +1,110 @@
+FRIDAY V8 COMMANDS - UNIVERSAL + MULTITASKING
+============================================
+
+DAILY START
+- Double-click START_FRIDAY
+- Say: exit  (to stop FRIDAY)
+
+OPEN APPS
+- open chrome
+- open whatsapp
+- open notepad
+- open calculator
+- open vs code
+- open cmd
+- open settings
+- open any app name
+
+BRING / RESTORE MINIMIZED APPS
+- switch to chrome
+- bring chrome to front
+- focus whatsapp
+- restore chrome
+- open minimized whatsapp
+- list open windows
+- restore all windows
+- show desktop
+- switch window
+- task view
+
+CURRENT / ACTIVE WINDOW
+- minimize current window
+- maximize current window
+- restore current window
+- close current window
+- copy
+- paste
+- select all
+- save
+- press enter
+- scroll down
+- scroll up
+
+BROWSER TAB CONTROL
+- next tab
+- previous tab
+- new tab
+- close tab
+- reopen closed tab
+- refresh page
+- go back
+- go forward
+- find tab youtube
+- switch to tab github
+- search this tab python tutorial
+- open new tab and search ai projects
+
+CLOSE APPS / WINDOWS
+- close chrome
+- close whatsapp
+- close notepad
+- close calculator
+- close vs code
+- close edge
+- close brave
+- close firefox
+- close all browsers
+- close current window
+- close active window
+
+WHATSAPP
+- open whatsapp
+- search whatsapp rahul
+- add whatsapp contact rahul 9876543210
+- send whatsapp to rahul hello bro
+- send whatsapp to 9876543210 hello bro
+
+SEARCH
+- search python tutorial
+- open chrome and search ai resume projects
+- google search best laptop for coding
+- open youtube and search python tutorial
+
+SETTINGS
+- open bluetooth settings
+- open wifi settings
+- open sound settings
+- open display settings
+- open microphone settings
+- open windows update
+
+FOLDERS
+- open desktop folder
+- open downloads folder
+- open documents folder
+- search file resume
+- find folder java experiments
+
+PC TOOLS
+- take screenshot
+- system status
+- volume up
+- volume down
+- mute volume
+- lock pc
+- confirm shutdown pc
+- confirm restart pc
+
+HELP
+- multitasking commands
+- tab commands

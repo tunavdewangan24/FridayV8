@@ -1,0 +1,21 @@
+@echo off
+title FridayV8 Launcher
+
+cd /d C:\FridayV8
+
+echo ==========================================
+echo Starting FridayV8 Backend...
+echo ==========================================
+
+start "FridayV8 Backend" cmd /k "cd /d C:\FridayV8 && FIX_BCRYPT_AND_RUN_BACKEND.bat"
+
+echo Waiting for backend to start...
+timeout /t 10 /nobreak >nul
+
+echo ==========================================
+echo Starting FridayV8 Text Mode...
+echo ==========================================
+
+start "FridayV8 Text Mode" cmd /k "cd /d C:\FridayV8 && START_TEXT_MODE.bat"
+
+exit

@@ -1,0 +1,18 @@
+WHATSAPP COMMANDS
+=================
+
+Open:
+- open whatsapp
+
+Close:
+- close whatsapp
+
+Search contact:
+- search whatsapp rahul
+
+Best reliable messaging method:
+1. add whatsapp contact rahul 9876543210
+2. send whatsapp to rahul hello bro
+
+Direct number messaging:
+- send whatsapp to 9876543210 hello bro
