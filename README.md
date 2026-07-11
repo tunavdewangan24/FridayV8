@@ -11,7 +11,8 @@ FRIDAY Fast Mode is a Windows desktop automation assistant focused on speed, mul
 - Double clap wake support
 - No random option menu
 - Clear command = execute
-- Unclear command = ignored
+- Unclear command = ignored and answer properly
+  
 
 ## Run
 
